@@ -4,7 +4,7 @@
     <parent>
         <groupId>io.github.coffee0127</groupId>
         <artifactId>MyModule</artifactId>
-        <version>0.0.0</version>
+        <version>1.0-SNAPSHOT</version>
     </parent>
     <artifactId>MyModule-web</artifactId>
     <packaging>war</packaging>

@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.coffee0127</groupId>
     <artifactId>MyModule</artifactId>
-    <version>0.0.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <parent>
@@ -20,6 +20,12 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
+
+    <scm>
+        <url>https://github.com/Coffee0127/MyModule</url>
+        <connection>scm:git:https://github.com/Coffee0127/MyModule.git</connection>
+        <developerConnection>scm:git:https://github.com/Coffee0127/MyModule.git</developerConnection>
+    </scm>
 
     <build>
         <plugins>
